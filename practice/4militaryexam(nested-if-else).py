@@ -5,7 +5,6 @@ the height threshold is 165 cm and the weight threshold is 65 kg for women.
 Write an algorithm that takes the gender (m/M/f/F),
 height and weight data of the candidate and determines whether or not he/she has won the exam.
 """
-
 #constants
 MAX_HEIGHT_MEN = 175
 MAX_WEIGHT_MEN = 75
